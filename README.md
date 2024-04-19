@@ -1,2 +1,0 @@
-# Botiga
-Tienda para sintesis 
